@@ -7,6 +7,11 @@ export default defineConfig({
   description: '从零到精通 Anthropic Claude Code — 面向开发者的完整参考书',
   lang: 'zh-CN',
 
+  // 站点访问统计：Cloudflare Web Analytics，与主站 luoli523.github.io 共用同一个 token（同域名，后台按路径区分）
+  head: [
+    ['script', { type: 'module', src: 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "6aaf83fc05e244f88ca89346fb1acdcb"}' }],
+  ],
+
 
   themeConfig: {
     nav: [
