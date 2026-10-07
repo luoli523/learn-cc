@@ -2,7 +2,7 @@
 
 > 从零到精通 Anthropic Claude Code — 一本面向开发者的完整参考书
 
-📖 **在线阅读**：[luoli523.github.io/claude-code-book](https://luoli523.github.io/claude-code-book/)
+📖 **在线阅读**：[guige.ai/learn-cc](https://guige.ai/learn-cc/)
 
 ---
 
